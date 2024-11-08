@@ -1,3 +1,3 @@
 # DSC180A-Methodology-4
-Adalina Ma
-axma@ucsd.edu
+Adalina Ma and Jenna Canicosa
+
